@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render a single 1`] = `
+<div>
+  <h3>
+    <NavLink
+      activeClassName="is-active"
+      aria-current="page"
+      exact={true}
+      to="edit/2"
+    >
+      Rent
+    </NavLink>
+  </h3>
+  <h2>
+    500
+  </h2>
+  <h3>
+    -345600000
+  </h3>
+</div>
+`;
